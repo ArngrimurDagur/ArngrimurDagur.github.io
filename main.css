@@ -4,8 +4,8 @@
     font-family: 'Open Sans', sans-serif;
 }
 section {
-background: rgb(85,180,58);
-background: linear-gradient(0deg, rgba(85,180,58,1) 41%, rgba(253,29,29,1) 50%, rgba(255,255,255,1) 59%);
+background: rgb(255,175,0);
+background: linear-gradient(0deg, rgba(255,175,0,1) 41%, rgba(0,0,0,1) 50%, rgba(255,175,0,1) 59%);
 }
 img {
     max-width: 100%;
