@@ -114,8 +114,8 @@ html,body {
 }
 
 .content {
-    background-color: rgb(248, 248, 248);
-    /*background-color: white;*/
+    background-color: rgb(255, 172, 28);
+    /*background-color: orange;*/
 }
 
 .content .card {
@@ -139,7 +139,7 @@ html,body {
 }
 
 .footer {
-    background-color: green;
+    background-color: black;
     padding: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
