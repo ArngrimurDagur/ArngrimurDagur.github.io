@@ -117,8 +117,20 @@ html,body {
     background-color: rgb(255, 172, 28);
     /*background-color: orange;*/
 }
+.content2 {
+    background-color: rgb(255, 172, 28);
+    /*background-color: orange;*/
+}
+.content3 {
+    background-color: rgb(255, 172, 28);
+    /*background-color: orange;*/
+}
 
 .content .card {
+    margin: 0 auto;
+    max-width: 80em;
+}
+.content2 .card {
     margin: 0 auto;
     max-width: 80em;
 }
@@ -129,15 +141,24 @@ html,body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
-
+.content2 .row {
+    padding: 25px;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 .content .row h1 {
     margin: 0;
 }
-
+.content2 .row h1 {
+    margin: 0;
+}
 .content .row .col {
     padding: 15px;
 }
-
+.content2 .row .col {
+    padding: 15px;
+}
 .footer {
     background-color: black;
     padding: 20px;
