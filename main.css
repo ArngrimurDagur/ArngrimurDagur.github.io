@@ -37,7 +37,7 @@ html,body {
 .hero {
     height: 100%;
     position: relative;
-    background-color: red;
+    background-color: orange;
     z-index: 10;
 }
 
@@ -134,7 +134,10 @@ html,body {
     margin: 0 auto;
     max-width: 80em;
 }
-
+.content3 .card {
+    margin: 0 auto;
+    max-width: 80em;
+}
 .content .row {
     padding: 25px;
     border-radius: 5px;
@@ -147,16 +150,28 @@ html,body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.content3 .row {
+    padding: 25px;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 .content .row h1 {
     margin: 0;
 }
 .content2 .row h1 {
     margin: 0;
 }
+.content3 .row h1 {
+    margin: 0;
+}
 .content .row .col {
     padding: 15px;
 }
 .content2 .row .col {
+    padding: 15px;
+}
+.content3 .row .col {
     padding: 15px;
 }
 .footer {
@@ -176,6 +191,18 @@ html,body {
 
 @media only screen and (max-width: 970px) {
     .content .row {
+        padding: 25px;
+        border-radius: 5px;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .content2 .row {
+        padding: 25px;
+        border-radius: 5px;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .content3 .row {
         padding: 25px;
         border-radius: 5px;
         display: grid;
