@@ -58,7 +58,7 @@ html,body {
 }
 
 .hero .cross::before,.hero .cross::after {
-    background-color: white;
+    background-color: orange;
     content: "";
     position: absolute;
     left: -20%;
@@ -103,7 +103,7 @@ html,body {
     background-color: rgb(46, 46, 46);
     padding: 15px 30px 15px 30px;
     border-radius: 5px;
-    color: white;
+    color: orange;
     text-decoration: none;
     display: inline-block;
     transition: background-color 0.25s;
