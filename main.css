@@ -25,6 +25,8 @@ html,body {
 a {
     padding: 5px;
 }
+.pad {padding: 5px;
+}
 .green {
     color: green;
 }
