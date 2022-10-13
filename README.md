@@ -1,4 +1,4 @@
-# [Linkur á síðuna](https://wwww.arngrimurdagur.github.io)
+# [Linkur á síðuna](https://www.arngrimurdagur.github.io)
 ### Þessi síða er um Counter-Strike:Global Offensive sem er oft kallaður CS:GO
 ### Við ákvöðum að skrifa um CS:GO af því að við erum báðir búnir að spila leikinn í nokkur ár og finnst hann skemmtilegur
 ### Í verkefninu notuðum við <a> tag fyrir navigation og líka fyrir top page takkann.
